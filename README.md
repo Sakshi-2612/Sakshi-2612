@@ -10,5 +10,5 @@ Hi 👋, I'm Sakshi Waghmare
 
 - 💬 Ask me about: Excel, Power BI, Python.
 
-- 📫 How to reach me: sakshiwaghmare1226@gmail.com**
+- 📫 How to reach me: sakshiwaghmare1226@gmail.com
 
