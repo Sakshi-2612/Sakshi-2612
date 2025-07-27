@@ -6,7 +6,7 @@ Hi 👋, I'm Sakshi Waghmare
 
 - 🌱 I’m currently learning: Advancing my skills in Excel, and Power BI.
 
-- 👨‍💻 All of my projects are available at: https://github.com/Sakshi-2612
+- 👨‍💻 All of my projects are available at: https://github.com/SakshiRWaghmare
 
 - 💬 Ask me about: Excel, Power BI, Python.
 
